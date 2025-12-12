@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+     
+    <meta charset="utf-8" />
+     
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+     
+    <title>Profil GitHub — Vérification des Réalisations</title>
+       
+    <style>
+          /* --- Reset & Layout --- */
+          :root{
+            --accent:#0b74de;
+            --muted:#6b7280;
+            --bg:#ffffff;
+            --paper-padding:36px;
+            --max-width:820px;
+            --font-sans: "Hiragino Kaku Gothic Pro","Meiryo","Noto Sans JP", "Yu Gothic", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          }
+          html,body{height:100%;}
+          body{
+            margin:0;
+            background:linear-gradient(180deg,#f7fbff 0%, #ffffff 60%);
+            font-family:var(--font-sans);
+            color:#111827;
+            -webkit-print-color-adjust:exact;
+            padding:24px;
+            display:flex;
+            justify-content:center;
+            align-items:flex-start;
+          }
+          .card{
+            background:var(--bg);
+            width:100%;
+            max-width:var(--max-width);
+            box-shadow: 0 6px 24px rgba(15,23,42,0.08);
+            border-radius:14px;
+            padding:var(--paper-padding);
+            box-sizing:border-box;
+            page-break-inside: avoid;
+          }
+
+          /* --- Header --- */
+          .head{
+            display:flex;
+            gap:20px;
+            align-items:center;
+          }
+          .avatar{
+            width:96px;
+            height:96px;
+            border-radius:50%;
+            background:linear-gradient(135deg,var(--accent), #7cc0ff);
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            color:white;
+            font-weight:700;
+            font-size:34px;
+            flex-shrink:0;
+            box-shadow: 0 6px 18px rgba(11,116,222,0.22);
+          }
+          .title{
+            flex:1;
+          }
+          h1{
+            margin:0 0 6px 0;
+            font-size:22px;
+            letter-spacing: -0.02em;
+          }
+          p.lead{
+            margin:0;
+            color:var(--muted);
+            font-size:13px;
+          }
+
+          /* --- Main content --- */
+          .content{
+            margin-top:18px;
+            display:grid;
+            grid-template-columns: 1fr 320px;
+            gap:20px;
+          }
+          .left{
+            min-width:0;
+          }
+          .section{
+            margin-bottom:14px;
+          }
+          .section h2{
+            margin:0 0 8px 0;
+            font-size:15px;
+            color:#0f172a;
+          }
+          .section p{
+            margin:0;
+            color:#374151;
+            line-height:1.6;
+            font-size:13.5px;
+          }
+
+          /* --- Link box/button --- */
+          .link-box{
+            display:flex;
+            flex-direction:column;
+            gap:12px;
+            align-items:stretch;
+            background:linear-gradient(180deg, rgba(11,116,222,0.04), rgba(11,116,222,0.01));
+            padding:14px;
+            border-radius:10px;
+            border: 1px solid rgba(11,116,222,0.06);
+          }
+          .url{
+            font-size:13px;
+            color:var(--muted);
+            word-break:break-all;
+          }
+          .btn{
+            display:inline-block;
+            text-decoration:none;
+            text-align:center;
+            padding:12px 14px;
+            border-radius:10px;
+            font-weight:700;
+            background:var(--accent);
+            color:white;
+            box-shadow: 0 8px 20px rgba(11,116,222,0.18);
+            border: none;
+          }
+          .meta{
+            font-size:12px;
+            color:var(--muted);
+          }
+
+          /* --- Footer --- */
+          .footer{
+            margin-top:20px;
+            display:flex;
+            justify-content:space-between;
+            align-items:center;
+            color:var(--muted);
+            font-size:12px;
+            border-top:1px dashed rgba(15,23,42,0.04);
+            padding-top:12px;
+          }
+
+          /* --- Print rules --- */
+          @media print{
+            body{background:white; padding:0;}
+            .card{box-shadow:none; border-radius:0; margin:0; max-width:100%; padding:24px;}
+            .content{grid-template-columns: 1fr 260px;}
+            .btn{box-shadow:none;}
+            a[href]:after { content: " (" attr(href) ")"; font-size:10px; color: #666; }
+          }
+
+          /* Responsive */
+          @media (max-width:880px){
+            .content{grid-template-columns: 1fr;}
+            .link-box{order:2;}
+          }
+       
+    </style>
+  </head>
+  <body>
+     
+    <article class="card" role="document" aria-label="Accès au Profil GitHub">
+         
+      <header class="head" role="heading" aria-level="1">
+             
+        <div class="avatar">TB</div>
+             
+        <div class="title">
+                 
+          <h1>Réalisations sur GitHub — Accès et Vérification</h1>
+                 
+          <p class="lead">
+            Les informations ci-dessous vous guident vers mes contributions
+            réelles. Utilisez le bouton pour accéder directement à mon profil.
+          </p>
+               
+        </div>
+           
+      </header>
+
+         
+      <section class="content" aria-labelledby="main-title">
+             
+        <div class="left">
+                 
+          <div class="section">
+                     
+            <h2 id="main-title">Présentation</h2>
+                     
+            <p>
+                          Mon profil GitHub centralise mes projets,
+              implémentations, documentations techniques et exemples de code.
+              L'historique des commits offre une preuve tangible de l'évolution
+              de mon travail et de mes compétences.          
+            </p>
+                   
+          </div>
+
+                 
+          <div class="section">
+                     
+            <h2>Éléments à Consulter</h2>
+                     
+            <p>
+                          * Consultez le code source et les fichiers README des
+              dépôts publics.<br />
+                          * Vérifiez l'historique des **commits** pour suivre le
+              processus de développement.<br />
+                          * L'activité sur les **Issues** et **Pull Requests**
+              (PR) démontre la collaboration et la résolution de problèmes.    
+                   
+            </p>
+                   
+          </div>
+
+                 
+          <div class="section">
+                     
+            <h2>Instructions</h2>
+                     
+            <p>
+                          1. **Cliquez** sur le bouton ci-contre pour ouvrir la
+              page GitHub.<br />
+                          2. **Explorez** les différents dépôts, leurs READMEs
+              et leurs journaux de modifications (s'ils existent).<br />
+                          3. Vous êtes libre de cloner les dépôts pour les
+              tester localement.          
+            </p>
+                   
+          </div>
+               
+        </div>
+
+             
+        <aside class="link-box" aria-label="Lien vers GitHub">
+                 
+          <div>
+                      <strong>Lien direct vers le profil</strong>        
+          </div>
+
+                 
+          <div class="url" title="https://tsurubaso.github.io/">
+                      https://tsurubaso.github.io/        
+          </div>
+
+                 
+          <div>
+                     
+            <a
+              class="btn"
+              href="https://tsurubaso.github.io/"
+              target="_blank"
+              rel="noopener"
+              >Accéder au Profil GitHub</a
+            >
+                   
+          </div>
+
+                 
+          <div class="meta">
+                      Toutes les informations sont disponibles dans des dépôts
+            publics. L'intégrité de ce travail est démontrée par la transparence
+            du code.        
+          </div>
+               
+        </aside>
+           
+      </section>
+
+         
+      <footer class="footer" role="contentinfo">
+             
+        <div>Créateur: Tsuru Baso</div>
+             
+        <div>Généré le: <span id="today"></span></div>
+           
+      </footer>
+       
+    </article>
+
+     
+    <script>
+      // Met à jour automatiquement la date au format français
+      (function () {
+        const dateOptions = { year: "numeric", month: "long", day: "numeric" };
+        const formattedDate = new Date().toLocaleDateString(
+          "fr-FR",
+          dateOptions
+        );
+        document.getElementById("today").textContent = formattedDate;
+      })();
+    </script>
+  </body>
+</html>

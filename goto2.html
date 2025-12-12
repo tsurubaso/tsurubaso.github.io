@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>GitHub 実績 — 確認ページ</title>
+  <style>
+    :root{
+      --accent:#0b74de;
+      --muted:#6b7280;
+      --bg:#ffffff;
+      --paper-padding:40px;
+      --max-width:880px;
+      --font-sans:"Hiragino Kaku Gothic Pro","Meiryo","Noto Sans JP","Yu Gothic",system-ui;
+    }
+    body{
+      margin:0;
+      background:#f4f7fb;
+      font-family:var(--font-sans);
+      color:#111827;
+      padding:28px;
+      display:flex;
+      justify-content:center;
+    }
+    .card{
+      background:var(--bg);
+      width:100%;
+      max-width:var(--max-width);
+      box-shadow:0 6px 24px rgba(15,23,42,0.08);
+      border-radius:16px;
+      padding:var(--paper-padding);
+      box-sizing:border-box;
+    }
+    .head{display:flex;gap:24px;align-items:center;}
+    .avatar{
+      width:110px;height:110px;border-radius:50%;
+      background:linear-gradient(135deg,var(--accent),#7cc0ff);
+      display:flex;align-items:center;justify-content:center;
+      color:white;font-weight:700;font-size:40px;
+      box-shadow:0 6px 18px rgba(11,116,222,0.22);
+    }
+    h1{margin:0 0 10px 0;font-size:26px;letter-spacing:-0.02em;}
+    p.lead{margin:0;color:var(--muted);font-size:15px;}
+
+    .content{margin-top:26px;display:grid;grid-template-columns:1fr 330px;gap:28px;}
+    .section{margin-bottom:26px;}
+    .section h2{margin:0 0 10px 0;font-size:18px;color:#0f172a;}
+    .section p{margin:0;color:#374151;line-height:1.72;font-size:15px;}
+
+    .link-box{
+      display:flex;flex-direction:column;gap:16px;
+      background:linear-gradient(180deg,rgba(11,116,222,0.06),rgba(11,116,222,0.02));
+      padding:18px;border-radius:12px;
+      border:1px solid rgba(11,116,222,0.10);
+    }
+    .url{font-size:14px;color:var(--muted);word-break:break-all;}
+    .btn{
+      display:inline-block;text-decoration:none;text-align:center;
+      padding:14px 16px;border-radius:12px;font-weight:700;
+      background:var(--accent);color:white;font-size:15px;
+      box-shadow:0 8px 22px rgba(11,116,222,0.20);
+    }
+
+    .footer{
+      margin-top:26px;display:flex;justify-content:space-between;
+      color:var(--muted);font-size:13px;border-top:1px dashed #e5e7eb;
+      padding-top:14px;
+    }
+
+    @media print{
+      body{background:white;padding:0;}
+      .card{box-shadow:none;border-radius:0;margin:0;max-width:100%;}
+      a[href]:after{content:" (" attr(href) ")";font-size:10px;color:#666;}
+    }
+
+    @media(max-width:900px){.content{grid-template-columns:1fr;}}
+  </style>
+</head>
+<body>
+  <article class="card">
+    <header class="head">
+      <div class="avatar">TB</div>
+      <div class="title">
+        <h1>GitHub 実績のご案内</h1>
+        <p class="lead">以下の内容では、私が実際に取り組んできた開発作業を簡潔に紹介しています。詳細は GitHub ページをご確認ください。</p>
+      </div>
+    </header>
+
+    <section class="content">
+      <div>
+        <div class="section">
+          <h2>概要</h2>
+          <p>
+            私の GitHub では、個人開発プロジェクト、学習の記録、技術検証、アイデアの試作など、多岐にわたるリポジトリを公開しています。各プロジェクトは、実際に手を動かしながら得た知見や工夫を含んでおり、コードだけでなく、設計方針・改善過程も確認できます。
+          </p>
+        </div>
+
+        <div class="section">
+          <h2>GitHub の見どころ</h2>
+          <p>
+            ・複数のフレームワーク・言語を横断した開発例<br>
+            ・実験的コードや学習ログの蓄積<br>
+            ・継続的な改善とリファクタリングの履歴<br>
+            ・実用レベルの小規模アプリやツール類
+          </p>
+        </div>
+
+        <div class="section">
+          <h2>目的</h2>
+          <p>
+            コードの透明性を重視し、作業の過程・結果をそのまま公開することで、自分の技術的成長と誠実さを示すことを目的としています。興味のあるリポジトリがあれば、自由に参照・評価していただけます。
+          </p>
+        </div>
+      </div>
+
+      <aside class="link-box">
+        <strong>GitHub ページ</strong>
+        <div class="url">https://tsurubaso.github.io/</div>
+        <a class="btn" href="https://tsurubaso.github.io/" target="_blank">GitHub を開く</a>
+      </aside>
+    </section>
+
+    <footer class="footer">
+      <div>作成者: Tsuru Baso</div>
+      <div>生成日: <span id="today"></span></div>
+    </footer>
+  </article>
+
+  <script>
+    const d=new Date();
+    document.getElementById('today').textContent=`${d.getFullYear()}年${String(d.getMonth()+1).padStart(2,'0')}月${String(d.getDate()).padStart(2,'0')}日`;
+  </script>
+</body>
+</html>
