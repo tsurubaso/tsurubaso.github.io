@@ -1,6 +1,5 @@
-# tsurubaso.github.io
-# 職務経歴書 / Resume
 
+# 職務経歴書 / Resume
 
 以下のは日本語：
 
@@ -16,7 +15,7 @@ JLPT N1 | 20+ years in Japan
 
 ### PROFESSIONAL SUMMARY
 
-Senior Software Engineer with 7+ years of experience delivering business-critical systems in Japan across infrastructure, smart-metering, public monitoring platforms, and web marketing automation. Strong expertise in backend development (.NET/C#/Python/Java), system integration, database management, and offshore team coordination. Known for reliability, leadership, and cross-cultural communication.
+Senior Software Engineer with 8+ years of experience delivering business-critical systems in Japan across infrastructure, smart-metering, public monitoring platforms, and web marketing automation. Strong expertise in backend development (.NET/C#/Python/Java), system integration, database management, and offshore team coordination. Known for reliability, leadership, and cross-cultural communication.
 
 ---
 
@@ -124,24 +123,25 @@ Tech: Java
 
 ---
 
-## TECHNICAL PROJECTS & CONTINUOUS LEARNING
+## EARLIER CAREER – BUSINESS & CROSS-CULTURAL EXPERIENCE
 
-### Blockchain Systems (Personal R&D)
+Sales Manager / Brand Consultant – Tokyo, Japan
+2000 – 2018
 
-* Designed and implemented a minimalist blockchain prototype in **Node.js**
-* Built a peer-to-peer propagation layer with framed messaging, block synchronization, and transaction validation
-* Explored consensus fundamentals, chain reconciliation, and distributed ledger security concepts
+Before transitioning into software engineering, built 15+ years of client-facing experience in Japan across education, sales, and brand consulting.
 
-### Applied AI & Agent Development
+* French Teacher (French Athénée, Tokyo): Delivered thematic courses (30–40 students), developed strong communication and pedagogy skills.
+* Sales Representative (Publishing Industry): Managed negotiations with major Japanese bookstore HQs, consistently exceeded sales targets.
+* Sales Manager (Restaurant & Retail Promotion): Led marketing campaigns and distributor partnerships, increasing visibility for emerging brands.
+* Brand & Event Consultant (TSURUBASO Agency): Organized corporate events (SoftBank HQ, robotics exhibitions), handled client research, pitches, and business development.
 
-* Actively developing AI-powered automation tools using open-source LLM ecosystems (Ollama, local inference)
-* Studying agent-based architectures for workflow automation and software engineering support
-* Strong interest in integrating AI into real-world enterprise systems
+This background provides strong strengths in stakeholder communication, negotiation, and cross-cultural coordination — now applied to technical leadership and Bridge SE roles.
 
-### Ongoing Technical Training
+## ADDITIONAL TECHNICAL EXPERTISE
 
-* Continuous upskilling in distributed systems, backend scalability, and modern AI tooling
-* Passionate about building production-grade prototypes beyond day-to-day project work
+* Built personal prototypes in distributed systems (blockchain fundamentals, P2P messaging, transaction validation) using Node.js
+* Exploring practical AI automation workflows with open-source LLM tools (local inference, agent-based support systems)
+* Continuous focus on scalable backend architecture and modern engineering practices
 
 ## EDUCATION & CERTIFICATIONS
 
@@ -244,26 +244,23 @@ Tech: Java
 技術：JavaScript、Electron
 
 ---
+## 以前のキャリア（営業・顧客折衝経験）
 
+2000年〜2018年にかけて、日本で教育・営業・ブランド支援に従事。
+現在のブリッジSE／テックリード業務に直結する「顧客調整力・交渉力・異文化コミュニケーション力」を培う。
 
-## 個人開発・技術研鑽
+* フランス語講師（在日フランス学院）：30〜40名規模の授業運営
+* 出版業界法人営業：書店本部との交渉、売上目標達成
+* 飲食チェーン販促責任者：販路開拓・百貨店イベント企画
+* ブランドコンサル／イベント運営：SoftBank本社等での企業イベント実施
 
-### ブロックチェーン開発（R&D）
+## 追加技術領域（個人開発）
 
-* Node.jsにてミニマルなブロックチェーン試作を個人開発
-* P2Pネットワークでのブロック伝播、同期処理、署名検証を実装
-* 分散台帳・チェーン整合性・コンセンサス基礎を研究
+* Node.jsで分散システム基礎（P2P通信・ブロック同期・署名検証）のプロトタイプを開発
 
-### AI・エージェント開発
+* OSS LLM環境を用いた業務自動化（AIエージェント応用）を継続的に検証
 
-* Ollama等のOSS LLM環境を活用したAI自動化ツールを開発中
-* エージェント型アーキテクチャによる業務支援システムを学習
-* AIを企業システムへ組み込む応用に強い関心
-
-### 継続的な技術習得
-
-* 分散システム、バックエンド設計、AI技術を中心に継続的に学習
-* 実務外でもプロトタイプ開発を行う技術志向のエンジニア
+* バックエンド設計・スケーラビリティを中心に技術研鑽を継続
 
 ---
 
