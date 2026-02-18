@@ -2,13 +2,12 @@
 # 職務経歴書 / Resume
 
 
-### 💻 実務経歴 / Work History
-
 以下のは日本語：
 
-
 **S B**
-Tokyo, Japan | French Permanent Resident
+Tokyo, Japan |
+
+ French Permanent Resident
 Senior Software Engineer / Tech Lead / Bridge SE
 JLPT N1 | 20+ years in Japan
 
