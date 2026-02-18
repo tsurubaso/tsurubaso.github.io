@@ -5,9 +5,10 @@
 以下のは日本語：
 
 **S B**
+
 Tokyo, Japan |
 
- French Permanent Resident
+French Permanent Resident
 Senior Software Engineer / Tech Lead / Bridge SE
 JLPT N1 | 20+ years in Japan
 
@@ -160,7 +161,8 @@ Tech: Java
 
 ---
 
-**Sylvain Bilhaud（ビロー・シルヴァン）**
+**S B**
+
 東京都在住｜フランス国籍（永住権取得済）
 シニアソフトウェアエンジニア / テックリード / ブリッジSE
 日本語能力試験N1
