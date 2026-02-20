@@ -1,3 +1,5 @@
+<button onclick="window.print()">📄 Print / Save as PDF</button>
+
 ⬇ 日本語は下の方
 
 **S B**
