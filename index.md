@@ -1,11 +1,7 @@
 <button onclick="window.print()">📄 Print / Save as PDF</button>
 
-⬇ 日本語は下の方
 
-**S B**
-
-Tokyo, Japan |
-
+SB 
 French Permanent Resident
 Senior Software Engineer / Tech Lead / Bridge SE
 JLPT N1 | 20+ years in Japan
