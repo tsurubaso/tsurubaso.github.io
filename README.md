@@ -1,9 +1,6 @@
 ⬇ 日本語は下の方
 
-**S B**
-
-Tokyo, Japan |
-
+SB 
 French Permanent Resident
 Senior Software Engineer / Tech Lead / Bridge SE
 JLPT N1 | 20+ years in Japan
@@ -12,8 +9,7 @@ JLPT N1 | 20+ years in Japan
 
 ### PROFESSIONAL SUMMARY
 
-Senior Software Engineer with 8+ years of experience delivering business-critical systems in Japan across infrastructure, smart-metering, public monitoring platforms, and web marketing automation. Strong expertise in backend development (.NET/C#/Python/Java), system integration, database management, and offshore team coordination. Known for reliability, leadership, and cross-cultural communication.
-
+Senior Software Engineer with 8+ years of experience delivering business‑critical systems in Japan across infrastructure, smart‑metering, public monitoring platforms, and web marketing automation. Strong expertise in backend development (.NET/C#/Python/Java), with complementary experience in frontend technologies (Node.js, Next.js, HTML, CSS), system integration, database design, and offshore team coordination. Recently expanding into practical AI engineering, including local LLM workflows, agent‑based automation, and distributed system experimentation. Recognized for reliability, leadership, and effective cross‑cultural communication in fast‑paced, high‑impact environments.
 ---
 
 ### CORE SKILLS
@@ -136,9 +132,12 @@ This background provides strong strengths in stakeholder communication, negotiat
 
 ## ADDITIONAL TECHNICAL EXPERTISE
 
-* Built personal prototypes in distributed systems (blockchain fundamentals, P2P messaging, transaction validation) using Node.js
-* Exploring practical AI automation workflows with open-source LLM tools (local inference, agent-based support systems)
-* Continuous focus on scalable backend architecture and modern engineering practices
+* Built personal prototypes in distributed systems (blockchain fundamentals, P2P messaging, transaction validation) using Node.js  
+* Hands‑on exploration of practical AI automation workflows using open‑source LLM tools (Ollama, local inference pipelines, lightweight agent frameworks)  
+* Experience integrating AI components into backend services for task automation, data processing, and developer tooling  
+* Studying secure communication patterns (TCP/TLS) in decentralized and blockchain‑inspired network architectures  
+* Continuous focus on scalable backend architecture, clean code, and modern engineering practices
+
 
 ## EDUCATION & CERTIFICATIONS
 
@@ -168,7 +167,10 @@ This background provides strong strengths in stakeholder communication, negotiat
 
 ## 職務要約
 
-日本在住20年以上。C#(.NET)、Python、Javaを中心としたバックエンド開発に強みを持つシニアエンジニア。公共インフラ監視システム、スマートメーター関連、業務自動化ツール開発など幅広い領域で経験。要件定義から運用保守まで一貫対応可能。海外オフショアチームとのブリッジSE経験も豊富。
+シニアソフトウェアエンジニアとして、日本で8年以上にわたりインフラ、スマートメーター、公的モニタリングプラットフォーム、Webマーケティング自動化などの重要システムを開発してきました。
+バックエンド開発（.NET / C# / Python / Java）を中心に、フロントエンド（Node.js / Next.js / HTML / CSS）、システム連携、データベース設計、オフショアチームとの協力にも経験があります。
+最近は、ローカルLLMやエージェント自動化など、実用的なAIエンジニアリングにも取り組んでいます。
+信頼性、リーダーシップ、異文化コミュニケーションに強みがあります。
 
 ---
 
@@ -251,13 +253,17 @@ This background provides strong strengths in stakeholder communication, negotiat
 * 飲食チェーン販促責任者：販路開拓・百貨店イベント企画
 * ブランドコンサル／イベント運営：SoftBank本社等での企業イベント実施
 
-## 追加技術領域（個人開発）
+## 追加技術領域
 
-* Node.jsで分散システム基礎（P2P通信・ブロック同期・署名検証）のプロトタイプを開発
+* Node.js を使った分散システムの個人プロトタイプ開発  
+  （ブロックチェーン基礎、P2Pメッセージング、トランザクション検証など）  
+* オープンソースLLMツール（Ollama など）を使ったAI自動化ワークフローの研究  
+  （ローカル推論、軽量エージェントシステムなど）  
+* バックエンドサービスへのAI機能の組み込み（タスク自動化、データ処理、開発支援など）  
+* 分散ネットワークにおける TCP / TLS の通信パターンを学習  
+* スケーラブルなバックエンド設計、クリーンコード、最新のエンジニアリングプラクティスへの継続的な取り組み
 
-* OSS LLM環境を用いた業務自動化（AIエージェント応用）を継続的に検証
 
-* バックエンド設計・スケーラビリティを中心に技術研鑽を継続
 
 ---
 
