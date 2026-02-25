@@ -1,99 +1,112 @@
-# SB  
-Résident permanent au Japon (nationalité française)  
-Senior Software Engineer / Tech Lead / Bridge SE  
-JLPT N1 | 20+ ans au Japon  
+
+
+# Sylvain Bilhaud
+
+Tokyo, Japon | Résident permanent (France)
+Senior Software Engineer / Tech Lead / Bridge SE
+JLPT N1 | 20+ ans au Japon
 
 ---
 
-## SYNTHÈSE PROFESSIONNELLE
+## PROFIL PROFESSIONNEL
 
-Ingénieur logiciel senior avec plus de 8 ans d’expérience dans le développement de systèmes critiques au Japon : infrastructures, smart meters, plateformes de supervision publique et outils d’automatisation.
+Ingénieur logiciel senior avec plus de 8 ans d’expérience dans le développement de systèmes critiques au Japon : infrastructures, smart metering, plateformes de supervision publique et outils d’automatisation web.
 
-Spécialisé en développement backend (.NET / C# / Python / Java), intégration de systèmes, conception de bases de données et coordination d’équipes offshore.  
+Expertise principale en développement backend (.NET / C# / Python / Java), intégration système, conception de bases de données et coordination d’équipes offshore.
 
-Reconnu pour sa fiabilité, son leadership technique et sa capacité à assurer l’alignement entre équipes japonaises et internationales dans des environnements complexes.
-
----
-
-## COMPÉTENCES TECHNIQUES
-
-**Backend :** C# (.NET), Python, Java  
-**Frontend :** JavaScript, HTML5, CSS3, jQuery  
-**Frameworks :** Laravel, Electron, Node.js, Next.js  
-**Bases de données :** PostgreSQL, SQL Server  
-**Outils :** Azure DevOps, Redmine, SOAP UI, FTP, XML, TCP, TLS  
-**Forces :** Tech Lead, Bridge SE, Définition des besoins, Automatisation, Coordination internationale  
+Élargissement récent vers l’ingénierie IA appliquée : workflows LLM locaux, automatisation par agents légers et expérimentation en systèmes distribués. Reconnu pour fiabilité, leadership technique et communication interculturelle.
 
 ---
 
-# EXPÉRIENCE PROFESSIONNELLE
+## COMPÉTENCES PRINCIPALES
 
-## Senior Software Engineer / Consultant Technique – Tokyo  
-**2018 – Présent**
+**Backend**
+C# (.NET), Python, Java
 
-Conception et développement de systèmes backend, pilotage technique et coordination internationale dans les domaines des infrastructures, plateformes publiques et outils d’automatisation.
+**Frontend**
+JavaScript, HTML5, CSS3, jQuery
 
----
+**Frameworks & environnements**
+Laravel, Electron, Node.js, Next.js
 
-### Poste actuel (CDI) – Depuis novembre 2023  
-**Tech Lead / Bridge SE – Systèmes Smart Meter (Compagnie d’électricité, Japon)**
+**Bases de données**
+PostgreSQL, SQL Server
 
-- Interface technique entre parties prenantes japonaises et équipe offshore indienne (25 ingénieurs)  
-- Développement et support des systèmes de communication et de mesure pour smart meters  
-- Conception d’environnements de test et optimisation de la validation système  
-- Coordination technique inter-équipes  
-- Technologies : C#, Python, PostgreSQL, SOAP UI, XML  
+**Outils & protocoles**
+Azure DevOps, Redmine, SOAP UI, FTP, XML, TCP, TLS
 
----
-
-### Principaux projets réalisés (2018 – 2023)
-
-**Système de supervision d’infrastructures publiques – Responsable Backend**  
-- Développement de modules pour la gestion de barrages et systèmes de surveillance  
-- Intégration base de données, traitement XML, outils d’automatisation  
-- Technologies : C#, PostgreSQL, JavaScript  
-
-**Projet logiciel médical – Bridge SE / Support Web**  
-- Coordination QA avec équipe offshore (15 personnes)  
-- Support interface utilisateur et gestion d’avancement  
-- Technologies : PHP, Laravel, Redmine  
-
-**Outils internes d’automatisation marketing – Lead Developer**  
-- Développement d’applications desktop d’optimisation opérationnelle  
-- Cycle complet : définition des besoins → développement → déploiement  
-- Technologies : JavaScript, Electron  
-
-**Outils d’automatisation et traitement de données en Python**  
-- Extraction, transformation, validation et export de données  
-- Amélioration de l’efficacité opérationnelle  
-- Technologies : Python, PostgreSQL  
+**Forces professionnelles**
+Leadership technique, Bridge SE, définition des besoins, coordination technique, automatisation de processus
 
 ---
 
-# PARCOURS ANTÉRIEUR – EXPÉRIENCE BUSINESS & INTERCULTURELLE  
-**Tokyo | 2000 – 2018**
+## EXPÉRIENCE PROFESSIONNELLE
 
-Plus de 15 ans d’expérience en relation client au Japon dans l’enseignement, la vente et le conseil en développement de marque.
+### Senior Software Engineer / Tech Lead – Systèmes Smart Meter
 
-- Enseignant de français : gestion de groupes de 30–40 personnes  
-- Commercial secteur édition : négociation avec sièges de grandes chaînes de librairies  
-- Responsable commercial restauration / retail : développement distributeurs et campagnes promotionnelles  
-- Consultant marque & événementiel : organisation d’événements corporate et développement commercial  
+Compagnie d’électricité (Japon), Tokyo
+Nov 2023 – Présent
 
-Développement de solides compétences en négociation, communication et coordination interculturelle, aujourd’hui appliquées au leadership technique.
-
----
-
-# FORMATION & CERTIFICATIONS
-
-- JLPT N1 (2008)  
-- Université Paris VII – Denis Diderot  
-  Licence de japonais (Sociologie & Économie)
+* Bridge SE entre parties prenantes japonaises et équipe offshore indienne (25 ingénieurs).
+* Support au développement de systèmes de communication et de mesure pour compteurs intelligents.
+* Conception et amélioration d’environnements de test et de validation.
+* Gestion des tâches via Azure DevOps (environnement anglais).
+* Coordination technique inter-équipes.
 
 ---
 
-# LANGUES
+### Ingénieur Logiciel / Consultant Technique
 
-- Français : langue maternelle  
-- Japonais : courant (JLPT N1)  
-- Anglais : niveau professionnel  
+Tokyo
+Mar 2018 – Oct 2023
+(Missions continues en mode projet)
+
+**Principales missions :**
+
+* Backend Engineer – Supervision d’infrastructures publiques (Juil 2023 – Oct 2023)
+* Développeur Python – Automatisation commerciale & traitement de données (Avr 2023 – Juin 2023)
+* Bridge SE – Logiciels médicaux & comptables (Déc 2022 – Mar 2023)
+* Lead Developer – Plateformes marketing internes (Jan 2020 – Nov 2022)
+* Ingénieur Python – Automatisation image & données (Avr 2019 – Jan 2020)
+* Développeur Java – Plateforme workflow photographique (Mar 2018 – Avr 2019)
+
+Développement backend, outils d’automatisation, intégration bases de données et livraison complète d’applications dans les secteurs infrastructure, santé et marketing.
+
+---
+
+## PARCOURS ANTÉRIEUR – EXPÉRIENCE BUSINESS & INTERCULTURELLE
+
+Tokyo
+2000 – 2018
+
+* Enseignant de français (groupes de 30–40 élèves)
+* Commercial secteur édition (négociations avec sièges de grandes chaînes de librairies)
+* Responsable commercial (promotion retail & restauration)
+* Consultant marque & événementiel, incluant événements corporate majeurs
+
+Développement de solides compétences en négociation, présentation et communication dans un environnement d’entreprise japonais.
+
+---
+
+## EXPERTISE TECHNIQUE COMPLÉMENTAIRE
+
+* Prototypes de systèmes distribués (fondamentaux blockchain, messagerie P2P) via Node.js
+* Workflows IA pratiques (Ollama, inférence LLM locale, systèmes d’agents légers)
+* Intégration de fonctionnalités IA dans services backend
+* Étude des architectures de communication sécurisée (TCP / TLS)
+* Conception backend scalable et bonnes pratiques d’ingénierie moderne
+
+---
+
+## FORMATION & CERTIFICATIONS
+
+* JLPT N1 (2008)
+* Université Paris VII – Licence d’Études Japonaises (Sociologie & Économie)
+
+---
+
+## LANGUES
+
+* Français : langue maternelle
+* Japonais : courant (JLPT N1)
+* Anglais : niveau professionnel
