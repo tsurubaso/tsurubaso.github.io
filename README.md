@@ -1,7 +1,7 @@
 日本語は以下ご確認ください
 
 
-# Sylvain Bilhaud
+# Tsurubaso
 
 Tokyo, Japan | French Permanent Resident
 Senior Software Engineer / Tech Lead / Bridge SE
@@ -112,7 +112,7 @@ Built strong negotiation, presentation, and stakeholder communication capabiliti
 
 ---
 
-# シルバン・ビロー（Sylvain Bilhaud）
+# ツルバソ
 
 東京都在住｜フランス国籍（永住権取得済）
 シニアソフトウェアエンジニア / テックリード / ブリッジSE
